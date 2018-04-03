@@ -91,6 +91,7 @@ a:hover{
   background-color: #FFF;
   height: 3em;
   border: 1px solid grey;
+  margin: 5% auto;
 }
 
 .btn-s {
@@ -217,12 +218,20 @@ textarea {
   border-radius: .5em;
   color: #000;
   overflow-y: scroll;
+  width: auto;
 }
 
 .modal-content {
-  margin-top: 15em;
+  margin: 15em 1em 0 1em;
 }
 
+#m-tamaño {
+  width: 90% !important;
+}
+
+.publicar-venta {
+  margin-top: 1em;
+}
 /* rating */
 .star-rating {
   line-height: 32px;
