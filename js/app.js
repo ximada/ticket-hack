@@ -287,5 +287,9 @@ function printEvents(nameEvent,infoEvent,dateEvent,timeEvent,adressEvent,urlEven
     return SetRatingStar();
   });
 
+  // function profilePaint(authorPost, photoAuthorPost){
+  //   $(".profile-1").attr("src", photoAuthorPost );
+  // }
+
 $(document).ready(loadPage);
 $(document).ready(loadHomePage);
