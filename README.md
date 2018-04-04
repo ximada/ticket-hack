@@ -44,3 +44,6 @@ Crear una app donde los usuarios puedan buscar y vender boletos de conciertos de
 - Gabriela López: Investigación, API, Funcionalidad.
 - Adalid Garcia: Investigación, API, Funcionalidad.
 - Karla Miranda: Investigación, UX, Maquetado.
+
+Trabajo escolar;
+Desarrollado para Laboratoria (http://laboratoria.la)
