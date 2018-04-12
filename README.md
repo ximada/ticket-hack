@@ -2,8 +2,7 @@
 
 Plataforma que busca ofrecer un espacio para el intercambio de boletos, principalmente para conciertos, desde una comunidad segura y confiable.
 
-![phone-ticket-01](assets/images/responsive1.jpg)
-![phone-ticket-02](assets/images/responsive2.jpg)
+![responsive2](https://user-images.githubusercontent.com/32860795/38653218-4e98e00a-3dcf-11e8-81bc-db4e61de9db9.jpg)
 ![phone-ticket-03](assets/images/responsive3.jpg)
 
  User Research
