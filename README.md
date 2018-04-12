@@ -1,7 +1,7 @@
 # Ticket-Hack
 
 Plataforma que busca ofrecer un espacio para el intercambio de boletos, principalmente para conciertos, desde una comunidad segura y confiable.
-##Desarrollado para Laboratoria (http://laboratoria.la)
+Desarrollado para Laboratoria (http://laboratoria.la)
 ![responsive2](https://user-images.githubusercontent.com/32860795/38653218-4e98e00a-3dcf-11e8-81bc-db4e61de9db9.jpg)
 ![phone-ticket-03](assets/images/responsive3.jpg)
 
